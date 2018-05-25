@@ -97,6 +97,9 @@
 	color: #717070;
 	cursor: pointer;
 }
+.secondary_header ul li:link{
+	
+}
 .left_article {
 	background-color: #FFFFFF;
 	width: 60%;
@@ -172,6 +175,13 @@
 	text-align: center;
 	color: #FFFFFF;
 	letter-spacing: 2px;
+}
+.title:hover {
+	color: #717070;
+	cursor: pointer;
+}
+.title:link{
+	
 }
 .placeholder {
 	/* [disabled]max-width: 400px;
